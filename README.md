@@ -48,4 +48,4 @@ A Presentation for this project can be found [here](https://github.com/DanielMJo
 
 #### • Daniel Jones
 
-#### • Shahzad Nazeer
+#### • Shahzad Naseer
