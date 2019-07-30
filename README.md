@@ -27,7 +27,7 @@ The EIA provides 4 different sectors for energy consumption and emissions – In
 There is a fifth sector for electric power which we did not include in the analysis as this electric sector consumes primary energy to generate most of the electricity the other four sectors consume. 
   
 ## Preparation
-You will need: Python, Pandas, Requests, Numpy, Matplotlib, [EIA API key](https://www.eia.gov/opendata/register.php), and Plotly
+You will need: Python, Pandas, Requests, Numpy, Matplotlib, Scipy, [EIA API key](https://www.eia.gov/opendata/register.php), and Plotly
 
 plotly.py may be installed using pip...
 
@@ -37,6 +37,18 @@ or conda.
 
 `$ conda install -c plotly plotly=4.0.0`
 
+## Running Files
+
+For Energy Consumption click [here](https://github.com/DanielMJones2005/Project-1/blob/master/Master_Energy_Consump_Sector_v3.ipynb)
+
+For State CO2 Emissions click [here](https://github.com/DanielMJones2005/Project-1/blob/master/CO2EmissionsAllFuelsbyState_AllSectorsMerged.ipynb)
+
+For CO2 Emissions by Sector click [here](https://github.com/DanielMJones2005/Project-1/blob/master/DataVisualization.ipynb)
+
+You will also need [this file](https://github.com/DanielMJones2005/Project-1/blob/master/CO2Ems10YrResIndComTrn.csv)
+
+and [this file](https://github.com/DanielMJones2005/Project-1/blob/master/MasterConsumptionResComTrnInd.csv)
+  
 ## Findings
 The full write up of findings can be found [here](https://github.com/DanielMJones2005/Project-1/blob/master/US%20Energy%20Consumption%20and%20CO2%20Emissions%20Write%20Up%20Final.docx)
 
@@ -44,8 +56,14 @@ A Presentation for this project can be found [here](https://github.com/DanielMJo
 
 ## Authors
   
-#### • Oswald Vinueza
+#### • Oswald Vinueza   
 
-#### • Daniel Jones
+State CO2 info and Write Up
 
-#### • Shahzad Naseer
+#### • Daniel Jones  
+
+Energy Consumption by Sector and Presentation
+
+#### • Shahzad Naseer   
+
+Energy Consumption by Sector
