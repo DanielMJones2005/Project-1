@@ -1,0 +1,431 @@
+,name,code,sector,series_id,units,year,value,source
+0,"Coal Industrial Sector CO2 Emissions, Annual",CLICEUS,Industrial,TOTAL.CLICEUS.A,Million Metric Tons of Carbon Dioxide,2018,109.967,Coal
+1,"Coal Industrial Sector CO2 Emissions, Annual",CLICEUS,Industrial,TOTAL.CLICEUS.A,Million Metric Tons of Carbon Dioxide,2017,111.616,Coal
+2,"Coal Industrial Sector CO2 Emissions, Annual",CLICEUS,Industrial,TOTAL.CLICEUS.A,Million Metric Tons of Carbon Dioxide,2016,112.702,Coal
+3,"Coal Industrial Sector CO2 Emissions, Annual",CLICEUS,Industrial,TOTAL.CLICEUS.A,Million Metric Tons of Carbon Dioxide,2015,128.941,Coal
+4,"Coal Industrial Sector CO2 Emissions, Annual",CLICEUS,Industrial,TOTAL.CLICEUS.A,Million Metric Tons of Carbon Dioxide,2014,143.075,Coal
+5,"Coal Industrial Sector CO2 Emissions, Annual",CLICEUS,Industrial,TOTAL.CLICEUS.A,Million Metric Tons of Carbon Dioxide,2013,144.563,Coal
+6,"Coal Industrial Sector CO2 Emissions, Annual",CLICEUS,Industrial,TOTAL.CLICEUS.A,Million Metric Tons of Carbon Dioxide,2012,141.47,Coal
+7,"Coal Industrial Sector CO2 Emissions, Annual",CLICEUS,Industrial,TOTAL.CLICEUS.A,Million Metric Tons of Carbon Dioxide,2011,145.983,Coal
+8,"Coal Industrial Sector CO2 Emissions, Annual",CLICEUS,Industrial,TOTAL.CLICEUS.A,Million Metric Tons of Carbon Dioxide,2010,152.679,Coal
+9,"Coal Industrial Sector CO2 Emissions, Annual",CLICEUS,Industrial,TOTAL.CLICEUS.A,Million Metric Tons of Carbon Dioxide,2009,130.545,Coal
+46,"Distillate Fuel Oil Industrial Sector CO2 Emissions, Annual",DFICEUS,Industrial,TOTAL.DFICEUS.A,Million Metric Tons of Carbon Dioxide,2018,92.306,Distillate Fuel Oil
+47,"Distillate Fuel Oil Industrial Sector CO2 Emissions, Annual",DFICEUS,Industrial,TOTAL.DFICEUS.A,Million Metric Tons of Carbon Dioxide,2017,87.969,Distillate Fuel Oil
+48,"Distillate Fuel Oil Industrial Sector CO2 Emissions, Annual",DFICEUS,Industrial,TOTAL.DFICEUS.A,Million Metric Tons of Carbon Dioxide,2016,84.446,Distillate Fuel Oil
+49,"Distillate Fuel Oil Industrial Sector CO2 Emissions, Annual",DFICEUS,Industrial,TOTAL.DFICEUS.A,Million Metric Tons of Carbon Dioxide,2015,85.38,Distillate Fuel Oil
+50,"Distillate Fuel Oil Industrial Sector CO2 Emissions, Annual",DFICEUS,Industrial,TOTAL.DFICEUS.A,Million Metric Tons of Carbon Dioxide,2014,99.7,Distillate Fuel Oil
+51,"Distillate Fuel Oil Industrial Sector CO2 Emissions, Annual",DFICEUS,Industrial,TOTAL.DFICEUS.A,Million Metric Tons of Carbon Dioxide,2013,92.428,Distillate Fuel Oil
+52,"Distillate Fuel Oil Industrial Sector CO2 Emissions, Annual",DFICEUS,Industrial,TOTAL.DFICEUS.A,Million Metric Tons of Carbon Dioxide,2012,92.799,Distillate Fuel Oil
+53,"Distillate Fuel Oil Industrial Sector CO2 Emissions, Annual",DFICEUS,Industrial,TOTAL.DFICEUS.A,Million Metric Tons of Carbon Dioxide,2011,90.21,Distillate Fuel Oil
+54,"Distillate Fuel Oil Industrial Sector CO2 Emissions, Annual",DFICEUS,Industrial,TOTAL.DFICEUS.A,Million Metric Tons of Carbon Dioxide,2010,84.176,Distillate Fuel Oil
+55,"Distillate Fuel Oil Industrial Sector CO2 Emissions, Annual",DFICEUS,Industrial,TOTAL.DFICEUS.A,Million Metric Tons of Carbon Dioxide,2009,78.017,Distillate Fuel Oil
+92,"HGL Industrial Sector CO2 Emissions, Annual",HLICEUS,Industrial,TOTAL.HLICEUS.A,Million Metric Tons of Carbon Dioxide,2018,56.836,HGL
+93,"HGL Industrial Sector CO2 Emissions, Annual",HLICEUS,Industrial,TOTAL.HLICEUS.A,Million Metric Tons of Carbon Dioxide,2017,52.732,HGL
+94,"HGL Industrial Sector CO2 Emissions, Annual",HLICEUS,Industrial,TOTAL.HLICEUS.A,Million Metric Tons of Carbon Dioxide,2016,51.074,HGL
+95,"HGL Industrial Sector CO2 Emissions, Annual",HLICEUS,Industrial,TOTAL.HLICEUS.A,Million Metric Tons of Carbon Dioxide,2015,53.36,HGL
+96,"HGL Industrial Sector CO2 Emissions, Annual",HLICEUS,Industrial,TOTAL.HLICEUS.A,Million Metric Tons of Carbon Dioxide,2014,45.533,HGL
+97,"HGL Industrial Sector CO2 Emissions, Annual",HLICEUS,Industrial,TOTAL.HLICEUS.A,Million Metric Tons of Carbon Dioxide,2013,53.056,HGL
+98,"HGL Industrial Sector CO2 Emissions, Annual",HLICEUS,Industrial,TOTAL.HLICEUS.A,Million Metric Tons of Carbon Dioxide,2012,50.339,HGL
+99,"HGL Industrial Sector CO2 Emissions, Annual",HLICEUS,Industrial,TOTAL.HLICEUS.A,Million Metric Tons of Carbon Dioxide,2011,39.529,HGL
+100,"HGL Industrial Sector CO2 Emissions, Annual",HLICEUS,Industrial,TOTAL.HLICEUS.A,Million Metric Tons of Carbon Dioxide,2010,43.444,HGL
+101,"HGL Industrial Sector CO2 Emissions, Annual",HLICEUS,Industrial,TOTAL.HLICEUS.A,Million Metric Tons of Carbon Dioxide,2009,37.949,HGL
+138,"Kerosene Industrial Sector CO2 Emissions, Annual",KSICEUS,Industrial,TOTAL.KSICEUS.A,Million Metric Tons of Carbon Dioxide,2018,0.079,Kerosene
+139,"Kerosene Industrial Sector CO2 Emissions, Annual",KSICEUS,Industrial,TOTAL.KSICEUS.A,Million Metric Tons of Carbon Dioxide,2017,0.081,Kerosene
+140,"Kerosene Industrial Sector CO2 Emissions, Annual",KSICEUS,Industrial,TOTAL.KSICEUS.A,Million Metric Tons of Carbon Dioxide,2016,0.164,Kerosene
+141,"Kerosene Industrial Sector CO2 Emissions, Annual",KSICEUS,Industrial,TOTAL.KSICEUS.A,Million Metric Tons of Carbon Dioxide,2015,0.125,Kerosene
+142,"Kerosene Industrial Sector CO2 Emissions, Annual",KSICEUS,Industrial,TOTAL.KSICEUS.A,Million Metric Tons of Carbon Dioxide,2014,0.205,Kerosene
+143,"Kerosene Industrial Sector CO2 Emissions, Annual",KSICEUS,Industrial,TOTAL.KSICEUS.A,Million Metric Tons of Carbon Dioxide,2013,0.107,Kerosene
+144,"Kerosene Industrial Sector CO2 Emissions, Annual",KSICEUS,Industrial,TOTAL.KSICEUS.A,Million Metric Tons of Carbon Dioxide,2012,0.145,Kerosene
+145,"Kerosene Industrial Sector CO2 Emissions, Annual",KSICEUS,Industrial,TOTAL.KSICEUS.A,Million Metric Tons of Carbon Dioxide,2011,0.261,Kerosene
+146,"Kerosene Industrial Sector CO2 Emissions, Annual",KSICEUS,Industrial,TOTAL.KSICEUS.A,Million Metric Tons of Carbon Dioxide,2010,0.529,Kerosene
+147,"Kerosene Industrial Sector CO2 Emissions, Annual",KSICEUS,Industrial,TOTAL.KSICEUS.A,Million Metric Tons of Carbon Dioxide,2009,0.318,Kerosene
+184,"Lubricants Industrial Sector CO2 Emissions, Annual",LUICEUS,Industrial,TOTAL.LUICEUS.A,Million Metric Tons of Carbon Dioxide,2018,4.314,Lubricants
+185,"Lubricants Industrial Sector CO2 Emissions, Annual",LUICEUS,Industrial,TOTAL.LUICEUS.A,Million Metric Tons of Carbon Dioxide,2017,4.634,Lubricants
+186,"Lubricants Industrial Sector CO2 Emissions, Annual",LUICEUS,Industrial,TOTAL.LUICEUS.A,Million Metric Tons of Carbon Dioxide,2016,5.015,Lubricants
+187,"Lubricants Industrial Sector CO2 Emissions, Annual",LUICEUS,Industrial,TOTAL.LUICEUS.A,Million Metric Tons of Carbon Dioxide,2015,5.274,Lubricants
+188,"Lubricants Industrial Sector CO2 Emissions, Annual",LUICEUS,Industrial,TOTAL.LUICEUS.A,Million Metric Tons of Carbon Dioxide,2014,4.848,Lubricants
+189,"Lubricants Industrial Sector CO2 Emissions, Annual",LUICEUS,Industrial,TOTAL.LUICEUS.A,Million Metric Tons of Carbon Dioxide,2013,4.642,Lubricants
+190,"Lubricants Industrial Sector CO2 Emissions, Annual",LUICEUS,Industrial,TOTAL.LUICEUS.A,Million Metric Tons of Carbon Dioxide,2012,4.39,Lubricants
+191,"Lubricants Industrial Sector CO2 Emissions, Annual",LUICEUS,Industrial,TOTAL.LUICEUS.A,Million Metric Tons of Carbon Dioxide,2011,4.727,Lubricants
+192,"Lubricants Industrial Sector CO2 Emissions, Annual",LUICEUS,Industrial,TOTAL.LUICEUS.A,Million Metric Tons of Carbon Dioxide,2010,5.042,Lubricants
+193,"Lubricants Industrial Sector CO2 Emissions, Annual",LUICEUS,Industrial,TOTAL.LUICEUS.A,Million Metric Tons of Carbon Dioxide,2009,4.992,Lubricants
+230,"Motor Gasoline, Excluding Ethanol, Industrial Sector CO2 Emissions, Annual",MMICEUS,Industrial,TOTAL.MMICEUS.A,Million Metric Tons of Carbon Dioxide,2018,17.518,Motor Gasoline
+231,"Motor Gasoline, Excluding Ethanol, Industrial Sector CO2 Emissions, Annual",MMICEUS,Industrial,TOTAL.MMICEUS.A,Million Metric Tons of Carbon Dioxide,2017,17.523,Motor Gasoline
+232,"Motor Gasoline, Excluding Ethanol, Industrial Sector CO2 Emissions, Annual",MMICEUS,Industrial,TOTAL.MMICEUS.A,Million Metric Tons of Carbon Dioxide,2016,17.385,Motor Gasoline
+233,"Motor Gasoline, Excluding Ethanol, Industrial Sector CO2 Emissions, Annual",MMICEUS,Industrial,TOTAL.MMICEUS.A,Million Metric Tons of Carbon Dioxide,2015,17.126,Motor Gasoline
+234,"Motor Gasoline, Excluding Ethanol, Industrial Sector CO2 Emissions, Annual",MMICEUS,Industrial,TOTAL.MMICEUS.A,Million Metric Tons of Carbon Dioxide,2014,13.956,Motor Gasoline
+235,"Motor Gasoline, Excluding Ethanol, Industrial Sector CO2 Emissions, Annual",MMICEUS,Industrial,TOTAL.MMICEUS.A,Million Metric Tons of Carbon Dioxide,2013,17.461,Motor Gasoline
+236,"Motor Gasoline, Excluding Ethanol, Industrial Sector CO2 Emissions, Annual",MMICEUS,Industrial,TOTAL.MMICEUS.A,Million Metric Tons of Carbon Dioxide,2012,16.793,Motor Gasoline
+237,"Motor Gasoline, Excluding Ethanol, Industrial Sector CO2 Emissions, Annual",MMICEUS,Industrial,TOTAL.MMICEUS.A,Million Metric Tons of Carbon Dioxide,2011,16.929,Motor Gasoline
+238,"Motor Gasoline, Excluding Ethanol, Industrial Sector CO2 Emissions, Annual",MMICEUS,Industrial,TOTAL.MMICEUS.A,Million Metric Tons of Carbon Dioxide,2010,17.315,Motor Gasoline
+239,"Motor Gasoline, Excluding Ethanol, Industrial Sector CO2 Emissions, Annual",MMICEUS,Industrial,TOTAL.MMICEUS.A,Million Metric Tons of Carbon Dioxide,2009,16.008,Motor Gasoline
+276,"Natural Gas Industrial Sector CO2 Emissions, Annual",NNICEUS,Industrial,TOTAL.NNICEUS.A,Million Metric Tons of Carbon Dioxide,2018,537.781,Natural Gas
+277,"Natural Gas Industrial Sector CO2 Emissions, Annual",NNICEUS,Industrial,TOTAL.NNICEUS.A,Million Metric Tons of Carbon Dioxide,2017,508.848,Natural Gas
+278,"Natural Gas Industrial Sector CO2 Emissions, Annual",NNICEUS,Industrial,TOTAL.NNICEUS.A,Million Metric Tons of Carbon Dioxide,2016,497.16,Natural Gas
+279,"Natural Gas Industrial Sector CO2 Emissions, Annual",NNICEUS,Industrial,TOTAL.NNICEUS.A,Million Metric Tons of Carbon Dioxide,2015,487.438,Natural Gas
+280,"Natural Gas Industrial Sector CO2 Emissions, Annual",NNICEUS,Industrial,TOTAL.NNICEUS.A,Million Metric Tons of Carbon Dioxide,2014,487.913,Natural Gas
+281,"Natural Gas Industrial Sector CO2 Emissions, Annual",NNICEUS,Industrial,TOTAL.NNICEUS.A,Million Metric Tons of Carbon Dioxide,2013,472.041,Natural Gas
+282,"Natural Gas Industrial Sector CO2 Emissions, Annual",NNICEUS,Industrial,TOTAL.NNICEUS.A,Million Metric Tons of Carbon Dioxide,2012,455.369,Natural Gas
+283,"Natural Gas Industrial Sector CO2 Emissions, Annual",NNICEUS,Industrial,TOTAL.NNICEUS.A,Million Metric Tons of Carbon Dioxide,2011,437.768,Natural Gas
+284,"Natural Gas Industrial Sector CO2 Emissions, Annual",NNICEUS,Industrial,TOTAL.NNICEUS.A,Million Metric Tons of Carbon Dioxide,2010,427.285,Natural Gas
+285,"Natural Gas Industrial Sector CO2 Emissions, Annual",NNICEUS,Industrial,TOTAL.NNICEUS.A,Million Metric Tons of Carbon Dioxide,2009,394.596,Natural Gas
+322,"Other Petroleum Products Industrial Sector CO2 Emissions, Annual",OPICEUS,Industrial,TOTAL.OPICEUS.A,Million Metric Tons of Carbon Dioxide,2018,120.582,Other
+323,"Other Petroleum Products Industrial Sector CO2 Emissions, Annual",OPICEUS,Industrial,TOTAL.OPICEUS.A,Million Metric Tons of Carbon Dioxide,2017,125.832,Other
+324,"Other Petroleum Products Industrial Sector CO2 Emissions, Annual",OPICEUS,Industrial,TOTAL.OPICEUS.A,Million Metric Tons of Carbon Dioxide,2016,119.858,Other
+325,"Other Petroleum Products Industrial Sector CO2 Emissions, Annual",OPICEUS,Industrial,TOTAL.OPICEUS.A,Million Metric Tons of Carbon Dioxide,2015,112.082,Other
+326,"Other Petroleum Products Industrial Sector CO2 Emissions, Annual",OPICEUS,Industrial,TOTAL.OPICEUS.A,Million Metric Tons of Carbon Dioxide,2014,108.447,Other
+327,"Other Petroleum Products Industrial Sector CO2 Emissions, Annual",OPICEUS,Industrial,TOTAL.OPICEUS.A,Million Metric Tons of Carbon Dioxide,2013,115.822,Other
+328,"Other Petroleum Products Industrial Sector CO2 Emissions, Annual",OPICEUS,Industrial,TOTAL.OPICEUS.A,Million Metric Tons of Carbon Dioxide,2012,110.446,Other
+329,"Other Petroleum Products Industrial Sector CO2 Emissions, Annual",OPICEUS,Industrial,TOTAL.OPICEUS.A,Million Metric Tons of Carbon Dioxide,2011,114.333,Other
+330,"Other Petroleum Products Industrial Sector CO2 Emissions, Annual",OPICEUS,Industrial,TOTAL.OPICEUS.A,Million Metric Tons of Carbon Dioxide,2010,115.34,Other
+331,"Other Petroleum Products Industrial Sector CO2 Emissions, Annual",OPICEUS,Industrial,TOTAL.OPICEUS.A,Million Metric Tons of Carbon Dioxide,2009,107.432,Other
+368,"Petroleum Coke Industrial Sector CO2 Emissions, Annual",PCICEUS,Industrial,TOTAL.PCICEUS.A,Million Metric Tons of Carbon Dioxide,2018,63.465,Petroleum Coke
+369,"Petroleum Coke Industrial Sector CO2 Emissions, Annual",PCICEUS,Industrial,TOTAL.PCICEUS.A,Million Metric Tons of Carbon Dioxide,2017,59.534,Petroleum Coke
+370,"Petroleum Coke Industrial Sector CO2 Emissions, Annual",PCICEUS,Industrial,TOTAL.PCICEUS.A,Million Metric Tons of Carbon Dioxide,2016,63.682,Petroleum Coke
+371,"Petroleum Coke Industrial Sector CO2 Emissions, Annual",PCICEUS,Industrial,TOTAL.PCICEUS.A,Million Metric Tons of Carbon Dioxide,2015,64.702,Petroleum Coke
+372,"Petroleum Coke Industrial Sector CO2 Emissions, Annual",PCICEUS,Industrial,TOTAL.PCICEUS.A,Million Metric Tons of Carbon Dioxide,2014,63.755,Petroleum Coke
+373,"Petroleum Coke Industrial Sector CO2 Emissions, Annual",PCICEUS,Industrial,TOTAL.PCICEUS.A,Million Metric Tons of Carbon Dioxide,2013,64.705,Petroleum Coke
+374,"Petroleum Coke Industrial Sector CO2 Emissions, Annual",PCICEUS,Industrial,TOTAL.PCICEUS.A,Million Metric Tons of Carbon Dioxide,2012,69.906,Petroleum Coke
+375,"Petroleum Coke Industrial Sector CO2 Emissions, Annual",PCICEUS,Industrial,TOTAL.PCICEUS.A,Million Metric Tons of Carbon Dioxide,2011,64.647,Petroleum Coke
+376,"Petroleum Coke Industrial Sector CO2 Emissions, Annual",PCICEUS,Industrial,TOTAL.PCICEUS.A,Million Metric Tons of Carbon Dioxide,2010,67.913,Petroleum Coke
+377,"Petroleum Coke Industrial Sector CO2 Emissions, Annual",PCICEUS,Industrial,TOTAL.PCICEUS.A,Million Metric Tons of Carbon Dioxide,2009,73.412,Petroleum Coke
+414,"Petroleum, Excluding Biofuels, Industrial Sector CO2 Emissions, Annual",PMICEUS,Industrial,TOTAL.PMICEUS.A,Million Metric Tons of Carbon Dioxide,2018,358.245,Petroleum
+415,"Petroleum, Excluding Biofuels, Industrial Sector CO2 Emissions, Annual",PMICEUS,Industrial,TOTAL.PMICEUS.A,Million Metric Tons of Carbon Dioxide,2017,351.723,Petroleum
+416,"Petroleum, Excluding Biofuels, Industrial Sector CO2 Emissions, Annual",PMICEUS,Industrial,TOTAL.PMICEUS.A,Million Metric Tons of Carbon Dioxide,2016,345.211,Petroleum
+417,"Petroleum, Excluding Biofuels, Industrial Sector CO2 Emissions, Annual",PMICEUS,Industrial,TOTAL.PMICEUS.A,Million Metric Tons of Carbon Dioxide,2015,340.366,Petroleum
+418,"Petroleum, Excluding Biofuels, Industrial Sector CO2 Emissions, Annual",PMICEUS,Industrial,TOTAL.PMICEUS.A,Million Metric Tons of Carbon Dioxide,2014,339.221,Petroleum
+419,"Petroleum, Excluding Biofuels, Industrial Sector CO2 Emissions, Annual",PMICEUS,Industrial,TOTAL.PMICEUS.A,Million Metric Tons of Carbon Dioxide,2013,351.521,Petroleum
+420,"Petroleum, Excluding Biofuels, Industrial Sector CO2 Emissions, Annual",PMICEUS,Industrial,TOTAL.PMICEUS.A,Million Metric Tons of Carbon Dioxide,2012,349.601,Petroleum
+421,"Petroleum, Excluding Biofuels, Industrial Sector CO2 Emissions, Annual",PMICEUS,Industrial,TOTAL.PMICEUS.A,Million Metric Tons of Carbon Dioxide,2011,339.871,Petroleum
+422,"Petroleum, Excluding Biofuels, Industrial Sector CO2 Emissions, Annual",PMICEUS,Industrial,TOTAL.PMICEUS.A,Million Metric Tons of Carbon Dioxide,2010,341.985,Petroleum
+423,"Petroleum, Excluding Biofuels, Industrial Sector CO2 Emissions, Annual",PMICEUS,Industrial,TOTAL.PMICEUS.A,Million Metric Tons of Carbon Dioxide,2009,327.021,Petroleum
+460,"Residual Fuel Oil Industrial Sector CO2 Emissions, Annual",RFICEUS,Industrial,TOTAL.RFICEUS.A,Million Metric Tons of Carbon Dioxide,2018,3.145,Residual Fuel
+461,"Residual Fuel Oil Industrial Sector CO2 Emissions, Annual",RFICEUS,Industrial,TOTAL.RFICEUS.A,Million Metric Tons of Carbon Dioxide,2017,3.418,Residual Fuel
+462,"Residual Fuel Oil Industrial Sector CO2 Emissions, Annual",RFICEUS,Industrial,TOTAL.RFICEUS.A,Million Metric Tons of Carbon Dioxide,2016,3.588,Residual Fuel
+463,"Residual Fuel Oil Industrial Sector CO2 Emissions, Annual",RFICEUS,Industrial,TOTAL.RFICEUS.A,Million Metric Tons of Carbon Dioxide,2015,2.317,Residual Fuel
+464,"Residual Fuel Oil Industrial Sector CO2 Emissions, Annual",RFICEUS,Industrial,TOTAL.RFICEUS.A,Million Metric Tons of Carbon Dioxide,2014,2.777,Residual Fuel
+465,"Residual Fuel Oil Industrial Sector CO2 Emissions, Annual",RFICEUS,Industrial,TOTAL.RFICEUS.A,Million Metric Tons of Carbon Dioxide,2013,3.301,Residual Fuel
+466,"Residual Fuel Oil Industrial Sector CO2 Emissions, Annual",RFICEUS,Industrial,TOTAL.RFICEUS.A,Million Metric Tons of Carbon Dioxide,2012,4.783,Residual Fuel
+467,"Residual Fuel Oil Industrial Sector CO2 Emissions, Annual",RFICEUS,Industrial,TOTAL.RFICEUS.A,Million Metric Tons of Carbon Dioxide,2011,9.235,Residual Fuel
+468,"Residual Fuel Oil Industrial Sector CO2 Emissions, Annual",RFICEUS,Industrial,TOTAL.RFICEUS.A,Million Metric Tons of Carbon Dioxide,2010,8.227,Residual Fuel
+469,"Residual Fuel Oil Industrial Sector CO2 Emissions, Annual",RFICEUS,Industrial,TOTAL.RFICEUS.A,Million Metric Tons of Carbon Dioxide,2009,8.893,Residual Fuel
+506,"Total Industrial Sector CO2 Emissions, Annual",TEICEUS,Industrial,TOTAL.TEICEUS.A,Million Metric Tons of Carbon Dioxide,2018,1444.926,Total Energy
+507,"Total Industrial Sector CO2 Emissions, Annual",TEICEUS,Industrial,TOTAL.TEICEUS.A,Million Metric Tons of Carbon Dioxide,2017,1429.664,Total Energy
+508,"Total Industrial Sector CO2 Emissions, Annual",TEICEUS,Industrial,TOTAL.TEICEUS.A,Million Metric Tons of Carbon Dioxide,2016,1425.682,Total Energy
+509,"Total Industrial Sector CO2 Emissions, Annual",TEICEUS,Industrial,TOTAL.TEICEUS.A,Million Metric Tons of Carbon Dioxide,2015,1456.654,Total Energy
+510,"Total Industrial Sector CO2 Emissions, Annual",TEICEUS,Industrial,TOTAL.TEICEUS.A,Million Metric Tons of Carbon Dioxide,2014,1510.934,Total Energy
+511,"Total Industrial Sector CO2 Emissions, Annual",TEICEUS,Industrial,TOTAL.TEICEUS.A,Million Metric Tons of Carbon Dioxide,2013,1508.402,Total Energy
+512,"Total Industrial Sector CO2 Emissions, Annual",TEICEUS,Industrial,TOTAL.TEICEUS.A,Million Metric Tons of Carbon Dioxide,2012,1489.653,Total Energy
+513,"Total Industrial Sector CO2 Emissions, Annual",TEICEUS,Industrial,TOTAL.TEICEUS.A,Million Metric Tons of Carbon Dioxide,2011,1498.482,Total Energy
+514,"Total Industrial Sector CO2 Emissions, Annual",TEICEUS,Industrial,TOTAL.TEICEUS.A,Million Metric Tons of Carbon Dioxide,2010,1508.484,Total Energy
+515,"Total Industrial Sector CO2 Emissions, Annual",TEICEUS,Industrial,TOTAL.TEICEUS.A,Million Metric Tons of Carbon Dioxide,2009,1399.849,Total Energy
+0,"Coal Commercial Sector CO2 Emissions, Annual",CLCCEUS,Commercial,TOTAL.CLCCEUS.A,Million Metric Tons of Carbon Dioxide,2018,1.758,Coal
+1,"Coal Commercial Sector CO2 Emissions, Annual",CLCCEUS,Commercial,TOTAL.CLCCEUS.A,Million Metric Tons of Carbon Dioxide,2017,1.948,Coal
+2,"Coal Commercial Sector CO2 Emissions, Annual",CLCCEUS,Commercial,TOTAL.CLCCEUS.A,Million Metric Tons of Carbon Dioxide,2016,2.239,Coal
+3,"Coal Commercial Sector CO2 Emissions, Annual",CLCCEUS,Commercial,TOTAL.CLCCEUS.A,Million Metric Tons of Carbon Dioxide,2015,2.934,Coal
+4,"Coal Commercial Sector CO2 Emissions, Annual",CLCCEUS,Commercial,TOTAL.CLCCEUS.A,Million Metric Tons of Carbon Dioxide,2014,3.791,Coal
+5,"Coal Commercial Sector CO2 Emissions, Annual",CLCCEUS,Commercial,TOTAL.CLCCEUS.A,Million Metric Tons of Carbon Dioxide,2013,3.906,Coal
+6,"Coal Commercial Sector CO2 Emissions, Annual",CLCCEUS,Commercial,TOTAL.CLCCEUS.A,Million Metric Tons of Carbon Dioxide,2012,4.106,Coal
+7,"Coal Commercial Sector CO2 Emissions, Annual",CLCCEUS,Commercial,TOTAL.CLCCEUS.A,Million Metric Tons of Carbon Dioxide,2011,5.819,Coal
+8,"Coal Commercial Sector CO2 Emissions, Annual",CLCCEUS,Commercial,TOTAL.CLCCEUS.A,Million Metric Tons of Carbon Dioxide,2010,6.567,Coal
+9,"Coal Commercial Sector CO2 Emissions, Annual",CLCCEUS,Commercial,TOTAL.CLCCEUS.A,Million Metric Tons of Carbon Dioxide,2009,6.916,Coal
+46,"Distillate Fuel Oil Commercial Sector CO2 Emissions, Annual",DFCCEUS,Commercial,TOTAL.DFCCEUS.A,Million Metric Tons of Carbon Dioxide,2018,24.77,Distillate Fuel Oil
+47,"Distillate Fuel Oil Commercial Sector CO2 Emissions, Annual",DFCCEUS,Commercial,TOTAL.DFCCEUS.A,Million Metric Tons of Carbon Dioxide,2017,23.606,Distillate Fuel Oil
+48,"Distillate Fuel Oil Commercial Sector CO2 Emissions, Annual",DFCCEUS,Commercial,TOTAL.DFCCEUS.A,Million Metric Tons of Carbon Dioxide,2016,23.859,Distillate Fuel Oil
+49,"Distillate Fuel Oil Commercial Sector CO2 Emissions, Annual",DFCCEUS,Commercial,TOTAL.DFCCEUS.A,Million Metric Tons of Carbon Dioxide,2015,26.336,Distillate Fuel Oil
+50,"Distillate Fuel Oil Commercial Sector CO2 Emissions, Annual",DFCCEUS,Commercial,TOTAL.DFCCEUS.A,Million Metric Tons of Carbon Dioxide,2014,26.08,Distillate Fuel Oil
+51,"Distillate Fuel Oil Commercial Sector CO2 Emissions, Annual",DFCCEUS,Commercial,TOTAL.DFCCEUS.A,Million Metric Tons of Carbon Dioxide,2013,25.13,Distillate Fuel Oil
+52,"Distillate Fuel Oil Commercial Sector CO2 Emissions, Annual",DFCCEUS,Commercial,TOTAL.DFCCEUS.A,Million Metric Tons of Carbon Dioxide,2012,25.98,Distillate Fuel Oil
+53,"Distillate Fuel Oil Commercial Sector CO2 Emissions, Annual",DFCCEUS,Commercial,TOTAL.DFCCEUS.A,Million Metric Tons of Carbon Dioxide,2011,28.634,Distillate Fuel Oil
+54,"Distillate Fuel Oil Commercial Sector CO2 Emissions, Annual",DFCCEUS,Commercial,TOTAL.DFCCEUS.A,Million Metric Tons of Carbon Dioxide,2010,28.615,Distillate Fuel Oil
+55,"Distillate Fuel Oil Commercial Sector CO2 Emissions, Annual",DFCCEUS,Commercial,TOTAL.DFCCEUS.A,Million Metric Tons of Carbon Dioxide,2009,28.903,Distillate Fuel Oil
+92,"Commercial Share of Electric Power Sector CO2 Emissions, Annual",ESCCEUS,Commercial,TOTAL.ESCCEUS.A,Million Metric Tons of Carbon Dioxide,2018,638.277,Electric Power
+93,"Commercial Share of Electric Power Sector CO2 Emissions, Annual",ESCCEUS,Commercial,TOTAL.ESCCEUS.A,Million Metric Tons of Carbon Dioxide,2017,633.266,Electric Power
+94,"Commercial Share of Electric Power Sector CO2 Emissions, Annual",ESCCEUS,Commercial,TOTAL.ESCCEUS.A,Million Metric Tons of Carbon Dioxide,2016,661.809,Electric Power
+95,"Commercial Share of Electric Power Sector CO2 Emissions, Annual",ESCCEUS,Commercial,TOTAL.ESCCEUS.A,Million Metric Tons of Carbon Dioxide,2015,692.354,Electric Power
+96,"Commercial Share of Electric Power Sector CO2 Emissions, Annual",ESCCEUS,Commercial,TOTAL.ESCCEUS.A,Million Metric Tons of Carbon Dioxide,2014,736.258,Electric Power
+97,"Commercial Share of Electric Power Sector CO2 Emissions, Annual",ESCCEUS,Commercial,TOTAL.ESCCEUS.A,Million Metric Tons of Carbon Dioxide,2013,735.83,Electric Power
+98,"Commercial Share of Electric Power Sector CO2 Emissions, Annual",ESCCEUS,Commercial,TOTAL.ESCCEUS.A,Million Metric Tons of Carbon Dioxide,2012,730.735,Electric Power
+99,"Commercial Share of Electric Power Sector CO2 Emissions, Annual",ESCCEUS,Commercial,TOTAL.ESCCEUS.A,Million Metric Tons of Carbon Dioxide,2011,768.439,Electric Power
+100,"Commercial Share of Electric Power Sector CO2 Emissions, Annual",ESCCEUS,Commercial,TOTAL.ESCCEUS.A,Million Metric Tons of Carbon Dioxide,2010,804.292,Electric Power
+101,"Commercial Share of Electric Power Sector CO2 Emissions, Annual",ESCCEUS,Commercial,TOTAL.ESCCEUS.A,Million Metric Tons of Carbon Dioxide,2009,784.047,Electric Power
+138,"HGL Commercial Sector CO2 Emissions, Annual",HLCCEUS,Commercial,TOTAL.HLCCEUS.A,Million Metric Tons of Carbon Dioxide,2018,11.018,HGL
+139,"HGL Commercial Sector CO2 Emissions, Annual",HLCCEUS,Commercial,TOTAL.HLCCEUS.A,Million Metric Tons of Carbon Dioxide,2017,9.806,HGL
+140,"HGL Commercial Sector CO2 Emissions, Annual",HLCCEUS,Commercial,TOTAL.HLCCEUS.A,Million Metric Tons of Carbon Dioxide,2016,9.449,HGL
+141,"HGL Commercial Sector CO2 Emissions, Annual",HLCCEUS,Commercial,TOTAL.HLCCEUS.A,Million Metric Tons of Carbon Dioxide,2015,9.324,HGL
+142,"HGL Commercial Sector CO2 Emissions, Annual",HLCCEUS,Commercial,TOTAL.HLCCEUS.A,Million Metric Tons of Carbon Dioxide,2014,10.108,HGL
+143,"HGL Commercial Sector CO2 Emissions, Annual",HLCCEUS,Commercial,TOTAL.HLCCEUS.A,Million Metric Tons of Carbon Dioxide,2013,9.55,HGL
+144,"HGL Commercial Sector CO2 Emissions, Annual",HLCCEUS,Commercial,TOTAL.HLCCEUS.A,Million Metric Tons of Carbon Dioxide,2012,8.537,HGL
+145,"HGL Commercial Sector CO2 Emissions, Annual",HLCCEUS,Commercial,TOTAL.HLCCEUS.A,Million Metric Tons of Carbon Dioxide,2011,8.977,HGL
+146,"HGL Commercial Sector CO2 Emissions, Annual",HLCCEUS,Commercial,TOTAL.HLCCEUS.A,Million Metric Tons of Carbon Dioxide,2010,8.819,HGL
+147,"HGL Commercial Sector CO2 Emissions, Annual",HLCCEUS,Commercial,TOTAL.HLCCEUS.A,Million Metric Tons of Carbon Dioxide,2009,8.758,HGL
+184,"Kerosene Commercial Sector CO2 Emissions, Annual",KSCCEUS,Commercial,TOTAL.KSCCEUS.A,Million Metric Tons of Carbon Dioxide,2018,0.084,Kerosene
+185,"Kerosene Commercial Sector CO2 Emissions, Annual",KSCCEUS,Commercial,TOTAL.KSCCEUS.A,Million Metric Tons of Carbon Dioxide,2017,0.086,Kerosene
+186,"Kerosene Commercial Sector CO2 Emissions, Annual",KSCCEUS,Commercial,TOTAL.KSCCEUS.A,Million Metric Tons of Carbon Dioxide,2016,0.15,Kerosene
+187,"Kerosene Commercial Sector CO2 Emissions, Annual",KSCCEUS,Commercial,TOTAL.KSCCEUS.A,Million Metric Tons of Carbon Dioxide,2015,0.099,Kerosene
+188,"Kerosene Commercial Sector CO2 Emissions, Annual",KSCCEUS,Commercial,TOTAL.KSCCEUS.A,Million Metric Tons of Carbon Dioxide,2014,0.148,Kerosene
+189,"Kerosene Commercial Sector CO2 Emissions, Annual",KSCCEUS,Commercial,TOTAL.KSCCEUS.A,Million Metric Tons of Carbon Dioxide,2013,0.074,Kerosene
+190,"Kerosene Commercial Sector CO2 Emissions, Annual",KSCCEUS,Commercial,TOTAL.KSCCEUS.A,Million Metric Tons of Carbon Dioxide,2012,0.087,Kerosene
+191,"Kerosene Commercial Sector CO2 Emissions, Annual",KSCCEUS,Commercial,TOTAL.KSCCEUS.A,Million Metric Tons of Carbon Dioxide,2011,0.231,Kerosene
+192,"Kerosene Commercial Sector CO2 Emissions, Annual",KSCCEUS,Commercial,TOTAL.KSCCEUS.A,Million Metric Tons of Carbon Dioxide,2010,0.349,Kerosene
+193,"Kerosene Commercial Sector CO2 Emissions, Annual",KSCCEUS,Commercial,TOTAL.KSCCEUS.A,Million Metric Tons of Carbon Dioxide,2009,0.305,Kerosene
+230,"Motor Gasoline, Excluding Ethanol, Commercial Sector CO2 Emissions, Annual",MMCCEUS,Commercial,TOTAL.MMCCEUS.A,Million Metric Tons of Carbon Dioxide,2018,23.911,Motor Gasoline
+231,"Motor Gasoline, Excluding Ethanol, Commercial Sector CO2 Emissions, Annual",MMCCEUS,Commercial,TOTAL.MMCCEUS.A,Million Metric Tons of Carbon Dioxide,2017,23.918,Motor Gasoline
+232,"Motor Gasoline, Excluding Ethanol, Commercial Sector CO2 Emissions, Annual",MMCCEUS,Commercial,TOTAL.MMCCEUS.A,Million Metric Tons of Carbon Dioxide,2016,24.863,Motor Gasoline
+233,"Motor Gasoline, Excluding Ethanol, Commercial Sector CO2 Emissions, Annual",MMCCEUS,Commercial,TOTAL.MMCCEUS.A,Million Metric Tons of Carbon Dioxide,2015,24.969,Motor Gasoline
+234,"Motor Gasoline, Excluding Ethanol, Commercial Sector CO2 Emissions, Annual",MMCCEUS,Commercial,TOTAL.MMCCEUS.A,Million Metric Tons of Carbon Dioxide,2014,3.577,Motor Gasoline
+235,"Motor Gasoline, Excluding Ethanol, Commercial Sector CO2 Emissions, Annual",MMCCEUS,Commercial,TOTAL.MMCCEUS.A,Million Metric Tons of Carbon Dioxide,2013,2.652,Motor Gasoline
+236,"Motor Gasoline, Excluding Ethanol, Commercial Sector CO2 Emissions, Annual",MMCCEUS,Commercial,TOTAL.MMCCEUS.A,Million Metric Tons of Carbon Dioxide,2012,2.569,Motor Gasoline
+237,"Motor Gasoline, Excluding Ethanol, Commercial Sector CO2 Emissions, Annual",MMCCEUS,Commercial,TOTAL.MMCCEUS.A,Million Metric Tons of Carbon Dioxide,2011,2.932,Motor Gasoline
+238,"Motor Gasoline, Excluding Ethanol, Commercial Sector CO2 Emissions, Annual",MMCCEUS,Commercial,TOTAL.MMCCEUS.A,Million Metric Tons of Carbon Dioxide,2010,3.457,Motor Gasoline
+239,"Motor Gasoline, Excluding Ethanol, Commercial Sector CO2 Emissions, Annual",MMCCEUS,Commercial,TOTAL.MMCCEUS.A,Million Metric Tons of Carbon Dioxide,2009,3.492,Motor Gasoline
+276,"Natural Gas, Excluding Supplemental Gaseous Fuels, Commercial Sector CO2 Emissions, Annual",NNCCEUS,Commercial,TOTAL.NNCCEUS.A,Million Metric Tons of Carbon Dioxide,2018,191.01,Natural Gas
+277,"Natural Gas, Excluding Supplemental Gaseous Fuels, Commercial Sector CO2 Emissions, Annual",NNCCEUS,Commercial,TOTAL.NNCCEUS.A,Million Metric Tons of Carbon Dioxide,2017,173.625,Natural Gas
+278,"Natural Gas, Excluding Supplemental Gaseous Fuels, Commercial Sector CO2 Emissions, Annual",NNCCEUS,Commercial,TOTAL.NNCCEUS.A,Million Metric Tons of Carbon Dioxide,2016,171.029,Natural Gas
+279,"Natural Gas, Excluding Supplemental Gaseous Fuels, Commercial Sector CO2 Emissions, Annual",NNCCEUS,Commercial,TOTAL.NNCCEUS.A,Million Metric Tons of Carbon Dioxide,2015,175.914,Natural Gas
+280,"Natural Gas, Excluding Supplemental Gaseous Fuels, Commercial Sector CO2 Emissions, Annual",NNCCEUS,Commercial,TOTAL.NNCCEUS.A,Million Metric Tons of Carbon Dioxide,2014,189.514,Natural Gas
+281,"Natural Gas, Excluding Supplemental Gaseous Fuels, Commercial Sector CO2 Emissions, Annual",NNCCEUS,Commercial,TOTAL.NNCCEUS.A,Million Metric Tons of Carbon Dioxide,2013,179.321,Natural Gas
+282,"Natural Gas, Excluding Supplemental Gaseous Fuels, Commercial Sector CO2 Emissions, Annual",NNCCEUS,Commercial,TOTAL.NNCCEUS.A,Million Metric Tons of Carbon Dioxide,2012,157.022,Natural Gas
+283,"Natural Gas, Excluding Supplemental Gaseous Fuels, Commercial Sector CO2 Emissions, Annual",NNCCEUS,Commercial,TOTAL.NNCCEUS.A,Million Metric Tons of Carbon Dioxide,2011,170.636,Natural Gas
+284,"Natural Gas, Excluding Supplemental Gaseous Fuels, Commercial Sector CO2 Emissions, Annual",NNCCEUS,Commercial,TOTAL.NNCCEUS.A,Million Metric Tons of Carbon Dioxide,2010,167.907,Natural Gas
+285,"Natural Gas, Excluding Supplemental Gaseous Fuels, Commercial Sector CO2 Emissions, Annual",NNCCEUS,Commercial,TOTAL.NNCCEUS.A,Million Metric Tons of Carbon Dioxide,2009,169.07,Natural Gas
+322,"Petroleum Coke Commercial Sector CO2 Emissions, Annual",PCCCEUS,Commercial,TOTAL.PCCCEUS.A,Million Metric Tons of Carbon Dioxide,2018,0.036,Petroleum Coke
+323,"Petroleum Coke Commercial Sector CO2 Emissions, Annual",PCCCEUS,Commercial,TOTAL.PCCCEUS.A,Million Metric Tons of Carbon Dioxide,2017,0.051,Petroleum Coke
+324,"Petroleum Coke Commercial Sector CO2 Emissions, Annual",PCCCEUS,Commercial,TOTAL.PCCCEUS.A,Million Metric Tons of Carbon Dioxide,2016,0.03,Petroleum Coke
+325,"Petroleum Coke Commercial Sector CO2 Emissions, Annual",PCCCEUS,Commercial,TOTAL.PCCCEUS.A,Million Metric Tons of Carbon Dioxide,2015,0.053,Petroleum Coke
+326,"Petroleum Coke Commercial Sector CO2 Emissions, Annual",PCCCEUS,Commercial,TOTAL.PCCCEUS.A,Million Metric Tons of Carbon Dioxide,2014,0.054,Petroleum Coke
+327,"Petroleum Coke Commercial Sector CO2 Emissions, Annual",PCCCEUS,Commercial,TOTAL.PCCCEUS.A,Million Metric Tons of Carbon Dioxide,2013,0.036,Petroleum Coke
+328,"Petroleum Coke Commercial Sector CO2 Emissions, Annual",PCCCEUS,Commercial,TOTAL.PCCCEUS.A,Million Metric Tons of Carbon Dioxide,2012,0.037,Petroleum Coke
+329,"Petroleum Coke Commercial Sector CO2 Emissions, Annual",PCCCEUS,Commercial,TOTAL.PCCCEUS.A,Million Metric Tons of Carbon Dioxide,2011,0.019,Petroleum Coke
+330,"Petroleum Coke Commercial Sector CO2 Emissions, Annual",PCCCEUS,Commercial,TOTAL.PCCCEUS.A,Million Metric Tons of Carbon Dioxide,2010,0.035,Petroleum Coke
+331,"Petroleum Coke Commercial Sector CO2 Emissions, Annual",PCCCEUS,Commercial,TOTAL.PCCCEUS.A,Million Metric Tons of Carbon Dioxide,2009,0.025,Petroleum Coke
+368,"Petroleum, Excluding Biofuels, Commercial Sector CO2 Emissions, Annual",PMCCEUS,Commercial,TOTAL.PMCCEUS.A,Million Metric Tons of Carbon Dioxide,2018,60.097,Petroleum
+369,"Petroleum, Excluding Biofuels, Commercial Sector CO2 Emissions, Annual",PMCCEUS,Commercial,TOTAL.PMCCEUS.A,Million Metric Tons of Carbon Dioxide,2017,57.768,Petroleum
+370,"Petroleum, Excluding Biofuels, Commercial Sector CO2 Emissions, Annual",PMCCEUS,Commercial,TOTAL.PMCCEUS.A,Million Metric Tons of Carbon Dioxide,2016,58.702,Petroleum
+371,"Petroleum, Excluding Biofuels, Commercial Sector CO2 Emissions, Annual",PMCCEUS,Commercial,TOTAL.PMCCEUS.A,Million Metric Tons of Carbon Dioxide,2015,61.094,Petroleum
+372,"Petroleum, Excluding Biofuels, Commercial Sector CO2 Emissions, Annual",PMCCEUS,Commercial,TOTAL.PMCCEUS.A,Million Metric Tons of Carbon Dioxide,2014,40.592,Petroleum
+373,"Petroleum, Excluding Biofuels, Commercial Sector CO2 Emissions, Annual",PMCCEUS,Commercial,TOTAL.PMCCEUS.A,Million Metric Tons of Carbon Dioxide,2013,39.364,Petroleum
+374,"Petroleum, Excluding Biofuels, Commercial Sector CO2 Emissions, Annual",PMCCEUS,Commercial,TOTAL.PMCCEUS.A,Million Metric Tons of Carbon Dioxide,2012,39.683,Petroleum
+375,"Petroleum, Excluding Biofuels, Commercial Sector CO2 Emissions, Annual",PMCCEUS,Commercial,TOTAL.PMCCEUS.A,Million Metric Tons of Carbon Dioxide,2011,45.027,Petroleum
+376,"Petroleum, Excluding Biofuels, Commercial Sector CO2 Emissions, Annual",PMCCEUS,Commercial,TOTAL.PMCCEUS.A,Million Metric Tons of Carbon Dioxide,2010,46.137,Petroleum
+377,"Petroleum, Excluding Biofuels, Commercial Sector CO2 Emissions, Annual",PMCCEUS,Commercial,TOTAL.PMCCEUS.A,Million Metric Tons of Carbon Dioxide,2009,47.1,Petroleum
+414,"Residual Fuel Oil Commercial Sector CO2 Emissions, Annual",RFCCEUS,Commercial,TOTAL.RFCCEUS.A,Million Metric Tons of Carbon Dioxide,2018,0.278,Residual Fuel
+415,"Residual Fuel Oil Commercial Sector CO2 Emissions, Annual",RFCCEUS,Commercial,TOTAL.RFCCEUS.A,Million Metric Tons of Carbon Dioxide,2017,0.302,Residual Fuel
+416,"Residual Fuel Oil Commercial Sector CO2 Emissions, Annual",RFCCEUS,Commercial,TOTAL.RFCCEUS.A,Million Metric Tons of Carbon Dioxide,2016,0.35,Residual Fuel
+417,"Residual Fuel Oil Commercial Sector CO2 Emissions, Annual",RFCCEUS,Commercial,TOTAL.RFCCEUS.A,Million Metric Tons of Carbon Dioxide,2015,0.313,Residual Fuel
+418,"Residual Fuel Oil Commercial Sector CO2 Emissions, Annual",RFCCEUS,Commercial,TOTAL.RFCCEUS.A,Million Metric Tons of Carbon Dioxide,2014,0.626,Residual Fuel
+419,"Residual Fuel Oil Commercial Sector CO2 Emissions, Annual",RFCCEUS,Commercial,TOTAL.RFCCEUS.A,Million Metric Tons of Carbon Dioxide,2013,1.923,Residual Fuel
+420,"Residual Fuel Oil Commercial Sector CO2 Emissions, Annual",RFCCEUS,Commercial,TOTAL.RFCCEUS.A,Million Metric Tons of Carbon Dioxide,2012,2.474,Residual Fuel
+421,"Residual Fuel Oil Commercial Sector CO2 Emissions, Annual",RFCCEUS,Commercial,TOTAL.RFCCEUS.A,Million Metric Tons of Carbon Dioxide,2011,4.235,Residual Fuel
+422,"Residual Fuel Oil Commercial Sector CO2 Emissions, Annual",RFCCEUS,Commercial,TOTAL.RFCCEUS.A,Million Metric Tons of Carbon Dioxide,2010,4.861,Residual Fuel
+423,"Residual Fuel Oil Commercial Sector CO2 Emissions, Annual",RFCCEUS,Commercial,TOTAL.RFCCEUS.A,Million Metric Tons of Carbon Dioxide,2009,5.617,Residual Fuel
+460,"Total Energy Commercial Sector CO2 Emissions, Annual",TECCEUS,Commercial,TOTAL.TECCEUS.A,Million Metric Tons of Carbon Dioxide,2018,891.142,Total Energy
+461,"Total Energy Commercial Sector CO2 Emissions, Annual",TECCEUS,Commercial,TOTAL.TECCEUS.A,Million Metric Tons of Carbon Dioxide,2017,866.607,Total Energy
+462,"Total Energy Commercial Sector CO2 Emissions, Annual",TECCEUS,Commercial,TOTAL.TECCEUS.A,Million Metric Tons of Carbon Dioxide,2016,893.779,Total Energy
+463,"Total Energy Commercial Sector CO2 Emissions, Annual",TECCEUS,Commercial,TOTAL.TECCEUS.A,Million Metric Tons of Carbon Dioxide,2015,932.296,Total Energy
+464,"Total Energy Commercial Sector CO2 Emissions, Annual",TECCEUS,Commercial,TOTAL.TECCEUS.A,Million Metric Tons of Carbon Dioxide,2014,970.155,Total Energy
+465,"Total Energy Commercial Sector CO2 Emissions, Annual",TECCEUS,Commercial,TOTAL.TECCEUS.A,Million Metric Tons of Carbon Dioxide,2013,958.421,Total Energy
+466,"Total Energy Commercial Sector CO2 Emissions, Annual",TECCEUS,Commercial,TOTAL.TECCEUS.A,Million Metric Tons of Carbon Dioxide,2012,931.547,Total Energy
+467,"Total Energy Commercial Sector CO2 Emissions, Annual",TECCEUS,Commercial,TOTAL.TECCEUS.A,Million Metric Tons of Carbon Dioxide,2011,989.92,Total Energy
+468,"Total Energy Commercial Sector CO2 Emissions, Annual",TECCEUS,Commercial,TOTAL.TECCEUS.A,Million Metric Tons of Carbon Dioxide,2010,1024.903,Total Energy
+469,"Total Energy Commercial Sector CO2 Emissions, Annual",TECCEUS,Commercial,TOTAL.TECCEUS.A,Million Metric Tons of Carbon Dioxide,2009,1007.134,Total Energy
+0,"Coal Residential Sector CO2 Emissions, Annual",CLRCEUS,Residental,TOTAL.CLRCEUS.A,Million Metric Tons of Carbon Dioxide,2018,,Coal
+1,"Coal Residential Sector CO2 Emissions, Annual",CLRCEUS,Residental,TOTAL.CLRCEUS.A,Million Metric Tons of Carbon Dioxide,2017,,Coal
+2,"Coal Residential Sector CO2 Emissions, Annual",CLRCEUS,Residental,TOTAL.CLRCEUS.A,Million Metric Tons of Carbon Dioxide,2016,,Coal
+3,"Coal Residential Sector CO2 Emissions, Annual",CLRCEUS,Residental,TOTAL.CLRCEUS.A,Million Metric Tons of Carbon Dioxide,2015,,Coal
+4,"Coal Residential Sector CO2 Emissions, Annual",CLRCEUS,Residental,TOTAL.CLRCEUS.A,Million Metric Tons of Carbon Dioxide,2014,,Coal
+5,"Coal Residential Sector CO2 Emissions, Annual",CLRCEUS,Residental,TOTAL.CLRCEUS.A,Million Metric Tons of Carbon Dioxide,2013,,Coal
+6,"Coal Residential Sector CO2 Emissions, Annual",CLRCEUS,Residental,TOTAL.CLRCEUS.A,Million Metric Tons of Carbon Dioxide,2012,,Coal
+7,"Coal Residential Sector CO2 Emissions, Annual",CLRCEUS,Residental,TOTAL.CLRCEUS.A,Million Metric Tons of Carbon Dioxide,2011,,Coal
+8,"Coal Residential Sector CO2 Emissions, Annual",CLRCEUS,Residental,TOTAL.CLRCEUS.A,Million Metric Tons of Carbon Dioxide,2010,,Coal
+9,"Coal Residential Sector CO2 Emissions, Annual",CLRCEUS,Residental,TOTAL.CLRCEUS.A,Million Metric Tons of Carbon Dioxide,2009,,Coal
+46,"Distillate Fuel Oil Residential Sector CO2 Emissions, Annual",DFRCEUS,Residental,TOTAL.DFRCEUS.A,Million Metric Tons of Carbon Dioxide,2018,33.188,Distillate Fuel Oil
+47,"Distillate Fuel Oil Residential Sector CO2 Emissions, Annual",DFRCEUS,Residental,TOTAL.DFRCEUS.A,Million Metric Tons of Carbon Dioxide,2017,31.629,Distillate Fuel Oil
+48,"Distillate Fuel Oil Residential Sector CO2 Emissions, Annual",DFRCEUS,Residental,TOTAL.DFRCEUS.A,Million Metric Tons of Carbon Dioxide,2016,31.802,Distillate Fuel Oil
+49,"Distillate Fuel Oil Residential Sector CO2 Emissions, Annual",DFRCEUS,Residental,TOTAL.DFRCEUS.A,Million Metric Tons of Carbon Dioxide,2015,40.329,Distillate Fuel Oil
+50,"Distillate Fuel Oil Residential Sector CO2 Emissions, Annual",DFRCEUS,Residental,TOTAL.DFRCEUS.A,Million Metric Tons of Carbon Dioxide,2014,38.988,Distillate Fuel Oil
+51,"Distillate Fuel Oil Residential Sector CO2 Emissions, Annual",DFRCEUS,Residental,TOTAL.DFRCEUS.A,Million Metric Tons of Carbon Dioxide,2013,35.949,Distillate Fuel Oil
+52,"Distillate Fuel Oil Residential Sector CO2 Emissions, Annual",DFRCEUS,Residental,TOTAL.DFRCEUS.A,Million Metric Tons of Carbon Dioxide,2012,35.282,Distillate Fuel Oil
+53,"Distillate Fuel Oil Residential Sector CO2 Emissions, Annual",DFRCEUS,Residental,TOTAL.DFRCEUS.A,Million Metric Tons of Carbon Dioxide,2011,38.235,Distillate Fuel Oil
+54,"Distillate Fuel Oil Residential Sector CO2 Emissions, Annual",DFRCEUS,Residental,TOTAL.DFRCEUS.A,Million Metric Tons of Carbon Dioxide,2010,41.074,Distillate Fuel Oil
+55,"Distillate Fuel Oil Residential Sector CO2 Emissions, Annual",DFRCEUS,Residental,TOTAL.DFRCEUS.A,Million Metric Tons of Carbon Dioxide,2009,42.587,Distillate Fuel Oil
+92,"HGL Residential Sector CO2 Emissions, Annual",HLRCEUS,Residental,TOTAL.HLRCEUS.A,Million Metric Tons of Carbon Dioxide,2018,30.483,HGL
+93,"HGL Residential Sector CO2 Emissions, Annual",HLRCEUS,Residental,TOTAL.HLRCEUS.A,Million Metric Tons of Carbon Dioxide,2017,27.13,HGL
+94,"HGL Residential Sector CO2 Emissions, Annual",HLRCEUS,Residental,TOTAL.HLRCEUS.A,Million Metric Tons of Carbon Dioxide,2016,27.078,HGL
+95,"HGL Residential Sector CO2 Emissions, Annual",HLRCEUS,Residental,TOTAL.HLRCEUS.A,Million Metric Tons of Carbon Dioxide,2015,28.075,HGL
+96,"HGL Residential Sector CO2 Emissions, Annual",HLRCEUS,Residental,TOTAL.HLRCEUS.A,Million Metric Tons of Carbon Dioxide,2014,30.835,HGL
+97,"HGL Residential Sector CO2 Emissions, Annual",HLRCEUS,Residental,TOTAL.HLRCEUS.A,Million Metric Tons of Carbon Dioxide,2013,29.194,HGL
+98,"HGL Residential Sector CO2 Emissions, Annual",HLRCEUS,Residental,TOTAL.HLRCEUS.A,Million Metric Tons of Carbon Dioxide,2012,24.916,HGL
+99,"HGL Residential Sector CO2 Emissions, Annual",HLRCEUS,Residental,TOTAL.HLRCEUS.A,Million Metric Tons of Carbon Dioxide,2011,31.029,HGL
+100,"HGL Residential Sector CO2 Emissions, Annual",HLRCEUS,Residental,TOTAL.HLRCEUS.A,Million Metric Tons of Carbon Dioxide,2010,33.374,HGL
+101,"HGL Residential Sector CO2 Emissions, Annual",HLRCEUS,Residental,TOTAL.HLRCEUS.A,Million Metric Tons of Carbon Dioxide,2009,34.504,HGL
+138,"Kerosene Residential Sector CO2 Emissions, Annual",KSRCEUS,Residental,TOTAL.KSRCEUS.A,Million Metric Tons of Carbon Dioxide,2018,0.597,Kerosene
+139,"Kerosene Residential Sector CO2 Emissions, Annual",KSRCEUS,Residental,TOTAL.KSRCEUS.A,Million Metric Tons of Carbon Dioxide,2017,0.608,Kerosene
+140,"Kerosene Residential Sector CO2 Emissions, Annual",KSRCEUS,Residental,TOTAL.KSRCEUS.A,Million Metric Tons of Carbon Dioxide,2016,0.987,Kerosene
+141,"Kerosene Residential Sector CO2 Emissions, Annual",KSRCEUS,Residental,TOTAL.KSRCEUS.A,Million Metric Tons of Carbon Dioxide,2015,0.732,Kerosene
+142,"Kerosene Residential Sector CO2 Emissions, Annual",KSRCEUS,Residental,TOTAL.KSRCEUS.A,Million Metric Tons of Carbon Dioxide,2014,0.994,Kerosene
+143,"Kerosene Residential Sector CO2 Emissions, Annual",KSRCEUS,Residental,TOTAL.KSRCEUS.A,Million Metric Tons of Carbon Dioxide,2013,0.597,Kerosene
+144,"Kerosene Residential Sector CO2 Emissions, Annual",KSRCEUS,Residental,TOTAL.KSRCEUS.A,Million Metric Tons of Carbon Dioxide,2012,0.559,Kerosene
+145,"Kerosene Residential Sector CO2 Emissions, Annual",KSRCEUS,Residental,TOTAL.KSRCEUS.A,Million Metric Tons of Carbon Dioxide,2011,1.34,Kerosene
+146,"Kerosene Residential Sector CO2 Emissions, Annual",KSRCEUS,Residental,TOTAL.KSRCEUS.A,Million Metric Tons of Carbon Dioxide,2010,2.104,Kerosene
+147,"Kerosene Residential Sector CO2 Emissions, Annual",KSRCEUS,Residental,TOTAL.KSRCEUS.A,Million Metric Tons of Carbon Dioxide,2009,2.002,Kerosene
+184,"Natural Gas, Excluding Supplemental Gaseous Fuels, Residential Sector CO2 Emissions, Annual",NNRCEUS,Residental,TOTAL.NNRCEUS.A,Million Metric Tons of Carbon Dioxide,2018,273.304,Natural Gas
+185,"Natural Gas, Excluding Supplemental Gaseous Fuels, Residential Sector CO2 Emissions, Annual",NNRCEUS,Residental,TOTAL.NNRCEUS.A,Million Metric Tons of Carbon Dioxide,2017,242.119,Natural Gas
+186,"Natural Gas, Excluding Supplemental Gaseous Fuels, Residential Sector CO2 Emissions, Annual",NNRCEUS,Residental,TOTAL.NNRCEUS.A,Million Metric Tons of Carbon Dioxide,2016,239.065,Natural Gas
+187,"Natural Gas, Excluding Supplemental Gaseous Fuels, Residential Sector CO2 Emissions, Annual",NNRCEUS,Residental,TOTAL.NNRCEUS.A,Million Metric Tons of Carbon Dioxide,2015,253.448,Natural Gas
+188,"Natural Gas, Excluding Supplemental Gaseous Fuels, Residential Sector CO2 Emissions, Annual",NNRCEUS,Residental,TOTAL.NNRCEUS.A,Million Metric Tons of Carbon Dioxide,2014,278.149,Natural Gas
+189,"Natural Gas, Excluding Supplemental Gaseous Fuels, Residential Sector CO2 Emissions, Annual",NNRCEUS,Residental,TOTAL.NNRCEUS.A,Million Metric Tons of Carbon Dioxide,2013,266.501,Natural Gas
+190,"Natural Gas, Excluding Supplemental Gaseous Fuels, Residential Sector CO2 Emissions, Annual",NNRCEUS,Residental,TOTAL.NNRCEUS.A,Million Metric Tons of Carbon Dioxide,2012,225.071,Natural Gas
+191,"Natural Gas, Excluding Supplemental Gaseous Fuels, Residential Sector CO2 Emissions, Annual",NNRCEUS,Residental,TOTAL.NNRCEUS.A,Million Metric Tons of Carbon Dioxide,2011,254.915,Natural Gas
+192,"Natural Gas, Excluding Supplemental Gaseous Fuels, Residential Sector CO2 Emissions, Annual",NNRCEUS,Residental,TOTAL.NNRCEUS.A,Million Metric Tons of Carbon Dioxide,2010,258.816,Natural Gas
+193,"Natural Gas, Excluding Supplemental Gaseous Fuels, Residential Sector CO2 Emissions, Annual",NNRCEUS,Residental,TOTAL.NNRCEUS.A,Million Metric Tons of Carbon Dioxide,2009,259.082,Natural Gas
+230,"Petroleum Residential Sector CO2 Emissions, Annual",PARCEUS,Residental,TOTAL.PARCEUS.A,Million Metric Tons of Carbon Dioxide,2018,64.269,Petroleum
+231,"Petroleum Residential Sector CO2 Emissions, Annual",PARCEUS,Residental,TOTAL.PARCEUS.A,Million Metric Tons of Carbon Dioxide,2017,59.366,Petroleum
+232,"Petroleum Residential Sector CO2 Emissions, Annual",PARCEUS,Residental,TOTAL.PARCEUS.A,Million Metric Tons of Carbon Dioxide,2016,59.867,Petroleum
+233,"Petroleum Residential Sector CO2 Emissions, Annual",PARCEUS,Residental,TOTAL.PARCEUS.A,Million Metric Tons of Carbon Dioxide,2015,69.136,Petroleum
+234,"Petroleum Residential Sector CO2 Emissions, Annual",PARCEUS,Residental,TOTAL.PARCEUS.A,Million Metric Tons of Carbon Dioxide,2014,70.817,Petroleum
+235,"Petroleum Residential Sector CO2 Emissions, Annual",PARCEUS,Residental,TOTAL.PARCEUS.A,Million Metric Tons of Carbon Dioxide,2013,65.74,Petroleum
+236,"Petroleum Residential Sector CO2 Emissions, Annual",PARCEUS,Residental,TOTAL.PARCEUS.A,Million Metric Tons of Carbon Dioxide,2012,60.758,Petroleum
+237,"Petroleum Residential Sector CO2 Emissions, Annual",PARCEUS,Residental,TOTAL.PARCEUS.A,Million Metric Tons of Carbon Dioxide,2011,70.604,Petroleum
+238,"Petroleum Residential Sector CO2 Emissions, Annual",PARCEUS,Residental,TOTAL.PARCEUS.A,Million Metric Tons of Carbon Dioxide,2010,76.552,Petroleum
+239,"Petroleum Residential Sector CO2 Emissions, Annual",PARCEUS,Residental,TOTAL.PARCEUS.A,Million Metric Tons of Carbon Dioxide,2009,79.093,Petroleum
+276,"Residential Share of Electric Power Sector CO2 Emissions, Annual",ESRCEUS,Residental,TOTAL.ESRCEUS.A,Million Metric Tons of Carbon Dioxide,2018,678.904,Residentials
+277,"Residential Share of Electric Power Sector CO2 Emissions, Annual",ESRCEUS,Residental,TOTAL.ESRCEUS.A,Million Metric Tons of Carbon Dioxide,2017,645.324,Residentials
+278,"Residential Share of Electric Power Sector CO2 Emissions, Annual",ESRCEUS,Residental,TOTAL.ESRCEUS.A,Million Metric Tons of Carbon Dioxide,2016,683.044,Residentials
+279,"Residential Share of Electric Power Sector CO2 Emissions, Annual",ESRCEUS,Residental,TOTAL.ESRCEUS.A,Million Metric Tons of Carbon Dioxide,2015,714.408,Residentials
+280,"Residential Share of Electric Power Sector CO2 Emissions, Annual",ESRCEUS,Residental,TOTAL.ESRCEUS.A,Million Metric Tons of Carbon Dioxide,2014,766.234,Residentials
+281,"Residential Share of Electric Power Sector CO2 Emissions, Annual",ESRCEUS,Residental,TOTAL.ESRCEUS.A,Million Metric Tons of Carbon Dioxide,2013,767.603,Residentials
+282,"Residential Share of Electric Power Sector CO2 Emissions, Annual",ESRCEUS,Residental,TOTAL.ESRCEUS.A,Million Metric Tons of Carbon Dioxide,2012,756.842,Residentials
+283,"Residential Share of Electric Power Sector CO2 Emissions, Annual",ESRCEUS,Residental,TOTAL.ESRCEUS.A,Million Metric Tons of Carbon Dioxide,2011,823.259,Residentials
+284,"Residential Share of Electric Power Sector CO2 Emissions, Annual",ESRCEUS,Residental,TOTAL.ESRCEUS.A,Million Metric Tons of Carbon Dioxide,2010,874.133,Residentials
+285,"Residential Share of Electric Power Sector CO2 Emissions, Annual",ESRCEUS,Residental,TOTAL.ESRCEUS.A,Million Metric Tons of Carbon Dioxide,2009,818.788,Residentials
+322,"Total Energy Residential Sector CO2 Emissions, Annual",TERCEUS,Residental,TOTAL.TERCEUS.A,Million Metric Tons of Carbon Dioxide,2018,1016.477,Total Energy
+323,"Total Energy Residential Sector CO2 Emissions, Annual",TERCEUS,Residental,TOTAL.TERCEUS.A,Million Metric Tons of Carbon Dioxide,2017,946.81,Total Energy
+324,"Total Energy Residential Sector CO2 Emissions, Annual",TERCEUS,Residental,TOTAL.TERCEUS.A,Million Metric Tons of Carbon Dioxide,2016,981.976,Total Energy
+325,"Total Energy Residential Sector CO2 Emissions, Annual",TERCEUS,Residental,TOTAL.TERCEUS.A,Million Metric Tons of Carbon Dioxide,2015,1036.991,Total Energy
+326,"Total Energy Residential Sector CO2 Emissions, Annual",TERCEUS,Residental,TOTAL.TERCEUS.A,Million Metric Tons of Carbon Dioxide,2014,1115.199,Total Energy
+327,"Total Energy Residential Sector CO2 Emissions, Annual",TERCEUS,Residental,TOTAL.TERCEUS.A,Million Metric Tons of Carbon Dioxide,2013,1099.843,Total Energy
+328,"Total Energy Residential Sector CO2 Emissions, Annual",TERCEUS,Residental,TOTAL.TERCEUS.A,Million Metric Tons of Carbon Dioxide,2012,1042.671,Total Energy
+329,"Total Energy Residential Sector CO2 Emissions, Annual",TERCEUS,Residental,TOTAL.TERCEUS.A,Million Metric Tons of Carbon Dioxide,2011,1148.778,Total Energy
+330,"Total Energy Residential Sector CO2 Emissions, Annual",TERCEUS,Residental,TOTAL.TERCEUS.A,Million Metric Tons of Carbon Dioxide,2010,1209.502,Total Energy
+331,"Total Energy Residential Sector CO2 Emissions, Annual",TERCEUS,Residental,TOTAL.TERCEUS.A,Million Metric Tons of Carbon Dioxide,2009,1156.963,Total Energy
+0,"Aviation Gasoline Transportation Sector CO2 Emissions, Annual",AVACEUS,Transportation,TOTAL.AVACEUS.A,Million Metric Tons of Carbon Dioxide,2018,1.549,Aviation Gasoline
+1,"Aviation Gasoline Transportation Sector CO2 Emissions, Annual",AVACEUS,Transportation,TOTAL.AVACEUS.A,Million Metric Tons of Carbon Dioxide,2017,1.449,Aviation Gasoline
+2,"Aviation Gasoline Transportation Sector CO2 Emissions, Annual",AVACEUS,Transportation,TOTAL.AVACEUS.A,Million Metric Tons of Carbon Dioxide,2016,1.416,Aviation Gasoline
+3,"Aviation Gasoline Transportation Sector CO2 Emissions, Annual",AVACEUS,Transportation,TOTAL.AVACEUS.A,Million Metric Tons of Carbon Dioxide,2015,1.463,Aviation Gasoline
+4,"Aviation Gasoline Transportation Sector CO2 Emissions, Annual",AVACEUS,Transportation,TOTAL.AVACEUS.A,Million Metric Tons of Carbon Dioxide,2014,1.501,Aviation Gasoline
+5,"Aviation Gasoline Transportation Sector CO2 Emissions, Annual",AVACEUS,Transportation,TOTAL.AVACEUS.A,Million Metric Tons of Carbon Dioxide,2013,1.547,Aviation Gasoline
+6,"Aviation Gasoline Transportation Sector CO2 Emissions, Annual",AVACEUS,Transportation,TOTAL.AVACEUS.A,Million Metric Tons of Carbon Dioxide,2012,1.738,Aviation Gasoline
+7,"Aviation Gasoline Transportation Sector CO2 Emissions, Annual",AVACEUS,Transportation,TOTAL.AVACEUS.A,Million Metric Tons of Carbon Dioxide,2011,1.872,Aviation Gasoline
+8,"Aviation Gasoline Transportation Sector CO2 Emissions, Annual",AVACEUS,Transportation,TOTAL.AVACEUS.A,Million Metric Tons of Carbon Dioxide,2010,1.871,Aviation Gasoline
+9,"Aviation Gasoline Transportation Sector CO2 Emissions, Annual",AVACEUS,Transportation,TOTAL.AVACEUS.A,Million Metric Tons of Carbon Dioxide,2009,1.838,Aviation Gasoline
+46,"Coal Transportation Sector CO2 Emissions, Annual",CLACEUS,Transportation,TOTAL.CLACEUS.A,Million Metric Tons of Carbon Dioxide,2018,0.0,Coal
+47,"Coal Transportation Sector CO2 Emissions, Annual",CLACEUS,Transportation,TOTAL.CLACEUS.A,Million Metric Tons of Carbon Dioxide,2017,0.0,Coal
+48,"Coal Transportation Sector CO2 Emissions, Annual",CLACEUS,Transportation,TOTAL.CLACEUS.A,Million Metric Tons of Carbon Dioxide,2016,0.0,Coal
+49,"Coal Transportation Sector CO2 Emissions, Annual",CLACEUS,Transportation,TOTAL.CLACEUS.A,Million Metric Tons of Carbon Dioxide,2015,0.0,Coal
+50,"Coal Transportation Sector CO2 Emissions, Annual",CLACEUS,Transportation,TOTAL.CLACEUS.A,Million Metric Tons of Carbon Dioxide,2014,0.0,Coal
+51,"Coal Transportation Sector CO2 Emissions, Annual",CLACEUS,Transportation,TOTAL.CLACEUS.A,Million Metric Tons of Carbon Dioxide,2013,0.0,Coal
+52,"Coal Transportation Sector CO2 Emissions, Annual",CLACEUS,Transportation,TOTAL.CLACEUS.A,Million Metric Tons of Carbon Dioxide,2012,0.0,Coal
+53,"Coal Transportation Sector CO2 Emissions, Annual",CLACEUS,Transportation,TOTAL.CLACEUS.A,Million Metric Tons of Carbon Dioxide,2011,0.0,Coal
+54,"Coal Transportation Sector CO2 Emissions, Annual",CLACEUS,Transportation,TOTAL.CLACEUS.A,Million Metric Tons of Carbon Dioxide,2010,0.0,Coal
+55,"Coal Transportation Sector CO2 Emissions, Annual",CLACEUS,Transportation,TOTAL.CLACEUS.A,Million Metric Tons of Carbon Dioxide,2009,0.0,Coal
+92,"Distillate Fuel Oil, Excluding Biodiesel, Transportation Sector CO2 Emissions, Annual",DMACEUS,Transportation,TOTAL.DMACEUS.A,Million Metric Tons of Carbon Dioxide,2018,460.558,Distillate Fuel Oil
+93,"Distillate Fuel Oil, Excluding Biodiesel, Transportation Sector CO2 Emissions, Annual",DMACEUS,Transportation,TOTAL.DMACEUS.A,Million Metric Tons of Carbon Dioxide,2017,436.378,Distillate Fuel Oil
+94,"Distillate Fuel Oil, Excluding Biodiesel, Transportation Sector CO2 Emissions, Annual",DMACEUS,Transportation,TOTAL.DMACEUS.A,Million Metric Tons of Carbon Dioxide,2016,431.425,Distillate Fuel Oil
+95,"Distillate Fuel Oil, Excluding Biodiesel, Transportation Sector CO2 Emissions, Annual",DMACEUS,Transportation,TOTAL.DMACEUS.A,Million Metric Tons of Carbon Dioxide,2015,440.835,Distillate Fuel Oil
+96,"Distillate Fuel Oil, Excluding Biodiesel, Transportation Sector CO2 Emissions, Annual",DMACEUS,Transportation,TOTAL.DMACEUS.A,Million Metric Tons of Carbon Dioxide,2014,434.888,Distillate Fuel Oil
+97,"Distillate Fuel Oil, Excluding Biodiesel, Transportation Sector CO2 Emissions, Annual",DMACEUS,Transportation,TOTAL.DMACEUS.A,Million Metric Tons of Carbon Dioxide,2013,415.599,Distillate Fuel Oil
+98,"Distillate Fuel Oil, Excluding Biodiesel, Transportation Sector CO2 Emissions, Annual",DMACEUS,Transportation,TOTAL.DMACEUS.A,Million Metric Tons of Carbon Dioxide,2012,411.185,Distillate Fuel Oil
+99,"Distillate Fuel Oil, Excluding Biodiesel, Transportation Sector CO2 Emissions, Annual",DMACEUS,Transportation,TOTAL.DMACEUS.A,Million Metric Tons of Carbon Dioxide,2011,430.529,Distillate Fuel Oil
+100,"Distillate Fuel Oil, Excluding Biodiesel, Transportation Sector CO2 Emissions, Annual",DMACEUS,Transportation,TOTAL.DMACEUS.A,Million Metric Tons of Carbon Dioxide,2010,422.833,Distillate Fuel Oil
+101,"Distillate Fuel Oil, Excluding Biodiesel, Transportation Sector CO2 Emissions, Annual",DMACEUS,Transportation,TOTAL.DMACEUS.A,Million Metric Tons of Carbon Dioxide,2009,400.406,Distillate Fuel Oil
+138,"Transportation Share of Electric Power Sector CO2 Emissions, Annual",ESACEUS,Transportation,TOTAL.ESACEUS.A,Million Metric Tons of Carbon Dioxide,2018,3.587,Transportations
+139,"Transportation Share of Electric Power Sector CO2 Emissions, Annual",ESACEUS,Transportation,TOTAL.ESACEUS.A,Million Metric Tons of Carbon Dioxide,2017,3.521,Transportations
+140,"Transportation Share of Electric Power Sector CO2 Emissions, Annual",ESACEUS,Transportation,TOTAL.ESACEUS.A,Million Metric Tons of Carbon Dioxide,2016,3.629,Transportations
+141,"Transportation Share of Electric Power Sector CO2 Emissions, Annual",ESACEUS,Transportation,TOTAL.ESACEUS.A,Million Metric Tons of Carbon Dioxide,2015,3.886,Transportations
+142,"Transportation Share of Electric Power Sector CO2 Emissions, Annual",ESACEUS,Transportation,TOTAL.ESACEUS.A,Million Metric Tons of Carbon Dioxide,2014,4.224,Transportations
+143,"Transportation Share of Electric Power Sector CO2 Emissions, Annual",ESACEUS,Transportation,TOTAL.ESACEUS.A,Million Metric Tons of Carbon Dioxide,2013,4.196,Transportations
+144,"Transportation Share of Electric Power Sector CO2 Emissions, Annual",ESACEUS,Transportation,TOTAL.ESACEUS.A,Million Metric Tons of Carbon Dioxide,2012,4.031,Transportations
+145,"Transportation Share of Electric Power Sector CO2 Emissions, Annual",ESACEUS,Transportation,TOTAL.ESACEUS.A,Million Metric Tons of Carbon Dioxide,2011,4.439,Transportations
+146,"Transportation Share of Electric Power Sector CO2 Emissions, Annual",ESACEUS,Transportation,TOTAL.ESACEUS.A,Million Metric Tons of Carbon Dioxide,2010,4.663,Transportations
+147,"Transportation Share of Electric Power Sector CO2 Emissions, Annual",ESACEUS,Transportation,TOTAL.ESACEUS.A,Million Metric Tons of Carbon Dioxide,2009,4.66,Transportations
+184,"HGL Transportation Sector CO2 Emissions, Annual",HLACEUS,Transportation,TOTAL.HLACEUS.A,Million Metric Tons of Carbon Dioxide,2018,0.494,HGL
+185,"HGL Transportation Sector CO2 Emissions, Annual",HLACEUS,Transportation,TOTAL.HLACEUS.A,Million Metric Tons of Carbon Dioxide,2017,0.44,HGL
+186,"HGL Transportation Sector CO2 Emissions, Annual",HLACEUS,Transportation,TOTAL.HLACEUS.A,Million Metric Tons of Carbon Dioxide,2016,0.442,HGL
+187,"HGL Transportation Sector CO2 Emissions, Annual",HLACEUS,Transportation,TOTAL.HLACEUS.A,Million Metric Tons of Carbon Dioxide,2015,0.41,HGL
+188,"HGL Transportation Sector CO2 Emissions, Annual",HLACEUS,Transportation,TOTAL.HLACEUS.A,Million Metric Tons of Carbon Dioxide,2014,0.448,HGL
+189,"HGL Transportation Sector CO2 Emissions, Annual",HLACEUS,Transportation,TOTAL.HLACEUS.A,Million Metric Tons of Carbon Dioxide,2013,0.433,HGL
+190,"HGL Transportation Sector CO2 Emissions, Annual",HLACEUS,Transportation,TOTAL.HLACEUS.A,Million Metric Tons of Carbon Dioxide,2012,0.445,HGL
+191,"HGL Transportation Sector CO2 Emissions, Annual",HLACEUS,Transportation,TOTAL.HLACEUS.A,Million Metric Tons of Carbon Dioxide,2011,0.457,HGL
+192,"HGL Transportation Sector CO2 Emissions, Annual",HLACEUS,Transportation,TOTAL.HLACEUS.A,Million Metric Tons of Carbon Dioxide,2010,0.469,HGL
+193,"HGL Transportation Sector CO2 Emissions, Annual",HLACEUS,Transportation,TOTAL.HLACEUS.A,Million Metric Tons of Carbon Dioxide,2009,1.768,HGL
+230,"Jet Fuel Transportation Sector CO2 Emissions, Annual",JFACEUS,Transportation,TOTAL.JFACEUS.A,Million Metric Tons of Carbon Dioxide,2018,250.984,Jet Fuel
+231,"Jet Fuel Transportation Sector CO2 Emissions, Annual",JFACEUS,Transportation,TOTAL.JFACEUS.A,Million Metric Tons of Carbon Dioxide,2017,246.761,Jet Fuel
+232,"Jet Fuel Transportation Sector CO2 Emissions, Annual",JFACEUS,Transportation,TOTAL.JFACEUS.A,Million Metric Tons of Carbon Dioxide,2016,237.442,Jet Fuel
+233,"Jet Fuel Transportation Sector CO2 Emissions, Annual",JFACEUS,Transportation,TOTAL.JFACEUS.A,Million Metric Tons of Carbon Dioxide,2015,227.114,Jet Fuel
+234,"Jet Fuel Transportation Sector CO2 Emissions, Annual",JFACEUS,Transportation,TOTAL.JFACEUS.A,Million Metric Tons of Carbon Dioxide,2014,215.626,Jet Fuel
+235,"Jet Fuel Transportation Sector CO2 Emissions, Annual",JFACEUS,Transportation,TOTAL.JFACEUS.A,Million Metric Tons of Carbon Dioxide,2013,210.414,Jet Fuel
+236,"Jet Fuel Transportation Sector CO2 Emissions, Annual",JFACEUS,Transportation,TOTAL.JFACEUS.A,Million Metric Tons of Carbon Dioxide,2012,205.656,Jet Fuel
+237,"Jet Fuel Transportation Sector CO2 Emissions, Annual",JFACEUS,Transportation,TOTAL.JFACEUS.A,Million Metric Tons of Carbon Dioxide,2011,209.086,Jet Fuel
+238,"Jet Fuel Transportation Sector CO2 Emissions, Annual",JFACEUS,Transportation,TOTAL.JFACEUS.A,Million Metric Tons of Carbon Dioxide,2010,210.011,Jet Fuel
+239,"Jet Fuel Transportation Sector CO2 Emissions, Annual",JFACEUS,Transportation,TOTAL.JFACEUS.A,Million Metric Tons of Carbon Dioxide,2009,204.369,Jet Fuel
+276,"Lubricants Transportation Sector CO2 Emissions, Annual",LUACEUS,Transportation,TOTAL.LUACEUS.A,Million Metric Tons of Carbon Dioxide,2018,4.904,Lubricants
+277,"Lubricants Transportation Sector CO2 Emissions, Annual",LUACEUS,Transportation,TOTAL.LUACEUS.A,Million Metric Tons of Carbon Dioxide,2017,5.269,Lubricants
+278,"Lubricants Transportation Sector CO2 Emissions, Annual",LUACEUS,Transportation,TOTAL.LUACEUS.A,Million Metric Tons of Carbon Dioxide,2016,5.728,Lubricants
+279,"Lubricants Transportation Sector CO2 Emissions, Annual",LUACEUS,Transportation,TOTAL.LUACEUS.A,Million Metric Tons of Carbon Dioxide,2015,6.041,Lubricants
+280,"Lubricants Transportation Sector CO2 Emissions, Annual",LUACEUS,Transportation,TOTAL.LUACEUS.A,Million Metric Tons of Carbon Dioxide,2014,5.542,Lubricants
+281,"Lubricants Transportation Sector CO2 Emissions, Annual",LUACEUS,Transportation,TOTAL.LUACEUS.A,Million Metric Tons of Carbon Dioxide,2013,5.32,Lubricants
+282,"Lubricants Transportation Sector CO2 Emissions, Annual",LUACEUS,Transportation,TOTAL.LUACEUS.A,Million Metric Tons of Carbon Dioxide,2012,5.025,Lubricants
+283,"Lubricants Transportation Sector CO2 Emissions, Annual",LUACEUS,Transportation,TOTAL.LUACEUS.A,Million Metric Tons of Carbon Dioxide,2011,5.506,Lubricants
+284,"Lubricants Transportation Sector CO2 Emissions, Annual",LUACEUS,Transportation,TOTAL.LUACEUS.A,Million Metric Tons of Carbon Dioxide,2010,5.743,Lubricants
+285,"Lubricants Transportation Sector CO2 Emissions, Annual",LUACEUS,Transportation,TOTAL.LUACEUS.A,Million Metric Tons of Carbon Dioxide,2009,4.715,Lubricants
+322,"Motor Gasoline, Excluding Ethanol, Transportation Sector CO2 Emissions, Annual",MMACEUS,Transportation,TOTAL.MMACEUS.A,Million Metric Tons of Carbon Dioxide,2018,1098.642,Motor Gasoline
+323,"Motor Gasoline, Excluding Ethanol, Transportation Sector CO2 Emissions, Annual",MMACEUS,Transportation,TOTAL.MMACEUS.A,Million Metric Tons of Carbon Dioxide,2017,1098.946,Motor Gasoline
+324,"Motor Gasoline, Excluding Ethanol, Transportation Sector CO2 Emissions, Annual",MMACEUS,Transportation,TOTAL.MMACEUS.A,Million Metric Tons of Carbon Dioxide,2016,1101.609,Motor Gasoline
+325,"Motor Gasoline, Excluding Ethanol, Transportation Sector CO2 Emissions, Annual",MMACEUS,Transportation,TOTAL.MMACEUS.A,Million Metric Tons of Carbon Dioxide,2015,1083.055,Motor Gasoline
+326,"Motor Gasoline, Excluding Ethanol, Transportation Sector CO2 Emissions, Annual",MMACEUS,Transportation,TOTAL.MMACEUS.A,Million Metric Tons of Carbon Dioxide,2014,1077.182,Motor Gasoline
+327,"Motor Gasoline, Excluding Ethanol, Transportation Sector CO2 Emissions, Annual",MMACEUS,Transportation,TOTAL.MMACEUS.A,Million Metric Tons of Carbon Dioxide,2013,1065.975,Motor Gasoline
+328,"Motor Gasoline, Excluding Ethanol, Transportation Sector CO2 Emissions, Annual",MMACEUS,Transportation,TOTAL.MMACEUS.A,Million Metric Tons of Carbon Dioxide,2012,1051.142,Motor Gasoline
+329,"Motor Gasoline, Excluding Ethanol, Transportation Sector CO2 Emissions, Annual",MMACEUS,Transportation,TOTAL.MMACEUS.A,Million Metric Tons of Carbon Dioxide,2011,1056.971,Motor Gasoline
+330,"Motor Gasoline, Excluding Ethanol, Transportation Sector CO2 Emissions, Annual",MMACEUS,Transportation,TOTAL.MMACEUS.A,Million Metric Tons of Carbon Dioxide,2010,1088.833,Motor Gasoline
+331,"Motor Gasoline, Excluding Ethanol, Transportation Sector CO2 Emissions, Annual",MMACEUS,Transportation,TOTAL.MMACEUS.A,Million Metric Tons of Carbon Dioxide,2009,1106.564,Motor Gasoline
+368,"Natural Gas Transportation Sector CO2 Emissions, Annual",NGACEUS,Transportation,TOTAL.NGACEUS.A,Million Metric Tons of Carbon Dioxide,2018,46.299,Natural Gas
+369,"Natural Gas Transportation Sector CO2 Emissions, Annual",NGACEUS,Transportation,TOTAL.NGACEUS.A,Million Metric Tons of Carbon Dioxide,2017,42.375,Natural Gas
+370,"Natural Gas Transportation Sector CO2 Emissions, Annual",NGACEUS,Transportation,TOTAL.NGACEUS.A,Million Metric Tons of Carbon Dioxide,2016,40.174,Natural Gas
+371,"Natural Gas Transportation Sector CO2 Emissions, Annual",NGACEUS,Transportation,TOTAL.NGACEUS.A,Million Metric Tons of Carbon Dioxide,2015,39.519,Natural Gas
+372,"Natural Gas Transportation Sector CO2 Emissions, Annual",NGACEUS,Transportation,TOTAL.NGACEUS.A,Million Metric Tons of Carbon Dioxide,2014,40.307,Natural Gas
+373,"Natural Gas Transportation Sector CO2 Emissions, Annual",NGACEUS,Transportation,TOTAL.NGACEUS.A,Million Metric Tons of Carbon Dioxide,2013,47.076,Natural Gas
+374,"Natural Gas Transportation Sector CO2 Emissions, Annual",NGACEUS,Transportation,TOTAL.NGACEUS.A,Million Metric Tons of Carbon Dioxide,2012,41.372,Natural Gas
+375,"Natural Gas Transportation Sector CO2 Emissions, Annual",NGACEUS,Transportation,TOTAL.NGACEUS.A,Million Metric Tons of Carbon Dioxide,2011,38.92,Natural Gas
+376,"Natural Gas Transportation Sector CO2 Emissions, Annual",NGACEUS,Transportation,TOTAL.NGACEUS.A,Million Metric Tons of Carbon Dioxide,2010,38.145,Natural Gas
+377,"Natural Gas Transportation Sector CO2 Emissions, Annual",NGACEUS,Transportation,TOTAL.NGACEUS.A,Million Metric Tons of Carbon Dioxide,2009,37.929,Natural Gas
+414,"Petroleum, Excluding Biofuels, Transportation Sector CO2 Emissions, Annual",PMACEUS,Transportation,TOTAL.PMACEUS.A,Million Metric Tons of Carbon Dioxide,2018,1865.319,Petroleum
+415,"Petroleum, Excluding Biofuels, Transportation Sector CO2 Emissions, Annual",PMACEUS,Transportation,TOTAL.PMACEUS.A,Million Metric Tons of Carbon Dioxide,2017,1841.61,Petroleum
+416,"Petroleum, Excluding Biofuels, Transportation Sector CO2 Emissions, Annual",PMACEUS,Transportation,TOTAL.PMACEUS.A,Million Metric Tons of Carbon Dioxide,2016,1827.162,Petroleum
+417,"Petroleum, Excluding Biofuels, Transportation Sector CO2 Emissions, Annual",PMACEUS,Transportation,TOTAL.PMACEUS.A,Million Metric Tons of Carbon Dioxide,2015,1795.433,Petroleum
+418,"Petroleum, Excluding Biofuels, Transportation Sector CO2 Emissions, Annual",PMACEUS,Transportation,TOTAL.PMACEUS.A,Million Metric Tons of Carbon Dioxide,2014,1770.374,Petroleum
+419,"Petroleum, Excluding Biofuels, Transportation Sector CO2 Emissions, Annual",PMACEUS,Transportation,TOTAL.PMACEUS.A,Million Metric Tons of Carbon Dioxide,2013,1745.08,Petroleum
+420,"Petroleum, Excluding Biofuels, Transportation Sector CO2 Emissions, Annual",PMACEUS,Transportation,TOTAL.PMACEUS.A,Million Metric Tons of Carbon Dioxide,2012,1728.024,Petroleum
+421,"Petroleum, Excluding Biofuels, Transportation Sector CO2 Emissions, Annual",PMACEUS,Transportation,TOTAL.PMACEUS.A,Million Metric Tons of Carbon Dioxide,2011,1765.592,Petroleum
+422,"Petroleum, Excluding Biofuels, Transportation Sector CO2 Emissions, Annual",PMACEUS,Transportation,TOTAL.PMACEUS.A,Million Metric Tons of Carbon Dioxide,2010,1800.046,Petroleum
+423,"Petroleum, Excluding Biofuels, Transportation Sector CO2 Emissions, Annual",PMACEUS,Transportation,TOTAL.PMACEUS.A,Million Metric Tons of Carbon Dioxide,2009,1781.95,Petroleum
+460,"Residual Fuel Oil Transportation Sector CO2 Emissions, Annual",RFACEUS,Transportation,TOTAL.RFACEUS.A,Million Metric Tons of Carbon Dioxide,2018,48.188,Residual Fuel
+461,"Residual Fuel Oil Transportation Sector CO2 Emissions, Annual",RFACEUS,Transportation,TOTAL.RFACEUS.A,Million Metric Tons of Carbon Dioxide,2017,52.367,Residual Fuel
+462,"Residual Fuel Oil Transportation Sector CO2 Emissions, Annual",RFACEUS,Transportation,TOTAL.RFACEUS.A,Million Metric Tons of Carbon Dioxide,2016,49.1,Residual Fuel
+463,"Residual Fuel Oil Transportation Sector CO2 Emissions, Annual",RFACEUS,Transportation,TOTAL.RFACEUS.A,Million Metric Tons of Carbon Dioxide,2015,36.514,Residual Fuel
+464,"Residual Fuel Oil Transportation Sector CO2 Emissions, Annual",RFACEUS,Transportation,TOTAL.RFACEUS.A,Million Metric Tons of Carbon Dioxide,2014,35.186,Residual Fuel
+465,"Residual Fuel Oil Transportation Sector CO2 Emissions, Annual",RFACEUS,Transportation,TOTAL.RFACEUS.A,Million Metric Tons of Carbon Dioxide,2013,45.793,Residual Fuel
+466,"Residual Fuel Oil Transportation Sector CO2 Emissions, Annual",RFACEUS,Transportation,TOTAL.RFACEUS.A,Million Metric Tons of Carbon Dioxide,2012,52.835,Residual Fuel
+467,"Residual Fuel Oil Transportation Sector CO2 Emissions, Annual",RFACEUS,Transportation,TOTAL.RFACEUS.A,Million Metric Tons of Carbon Dioxide,2011,61.171,Residual Fuel
+468,"Residual Fuel Oil Transportation Sector CO2 Emissions, Annual",RFACEUS,Transportation,TOTAL.RFACEUS.A,Million Metric Tons of Carbon Dioxide,2010,70.285,Residual Fuel
+469,"Residual Fuel Oil Transportation Sector CO2 Emissions, Annual",RFACEUS,Transportation,TOTAL.RFACEUS.A,Million Metric Tons of Carbon Dioxide,2009,62.29,Residual Fuel
+506,"Total Energy Transportation Sector CO2 Emissions, Annual",TEACEUS,Transportation,TOTAL.TEACEUS.A,Million Metric Tons of Carbon Dioxide,2018,1915.205,Total Energy
+507,"Total Energy Transportation Sector CO2 Emissions, Annual",TEACEUS,Transportation,TOTAL.TEACEUS.A,Million Metric Tons of Carbon Dioxide,2017,1887.506,Total Energy
+508,"Total Energy Transportation Sector CO2 Emissions, Annual",TEACEUS,Transportation,TOTAL.TEACEUS.A,Million Metric Tons of Carbon Dioxide,2016,1870.964,Total Energy
+509,"Total Energy Transportation Sector CO2 Emissions, Annual",TEACEUS,Transportation,TOTAL.TEACEUS.A,Million Metric Tons of Carbon Dioxide,2015,1838.837,Total Energy
+510,"Total Energy Transportation Sector CO2 Emissions, Annual",TEACEUS,Transportation,TOTAL.TEACEUS.A,Million Metric Tons of Carbon Dioxide,2014,1814.905,Total Energy
+511,"Total Energy Transportation Sector CO2 Emissions, Annual",TEACEUS,Transportation,TOTAL.TEACEUS.A,Million Metric Tons of Carbon Dioxide,2013,1796.352,Total Energy
+512,"Total Energy Transportation Sector CO2 Emissions, Annual",TEACEUS,Transportation,TOTAL.TEACEUS.A,Million Metric Tons of Carbon Dioxide,2012,1773.427,Total Energy
+513,"Total Energy Transportation Sector CO2 Emissions, Annual",TEACEUS,Transportation,TOTAL.TEACEUS.A,Million Metric Tons of Carbon Dioxide,2011,1808.951,Total Energy
+514,"Total Energy Transportation Sector CO2 Emissions, Annual",TEACEUS,Transportation,TOTAL.TEACEUS.A,Million Metric Tons of Carbon Dioxide,2010,1842.855,Total Energy
+515,"Total Energy Transportation Sector CO2 Emissions, Annual",TEACEUS,Transportation,TOTAL.TEACEUS.A,Million Metric Tons of Carbon Dioxide,2009,1824.539,Total Energy
