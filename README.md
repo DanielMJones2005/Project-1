@@ -58,7 +58,7 @@ A Presentation for this project can be found [here](https://github.com/DanielMJo
   
 #### • Oswald Vinueza   
 
-State CO2 info and Write Up
+State CO2 and Write Up
 
 #### • Daniel Jones  
 
